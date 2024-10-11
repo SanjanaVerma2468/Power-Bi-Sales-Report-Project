@@ -1,4 +1,4 @@
-# Power-Bi-Sales-Report-Project
+# Power Bi Sales eport Project
 PROJECT:
 
 Power BI Sales Analysis Project: Personal Project
@@ -9,8 +9,10 @@ Conducted data cleaning to ensure accurate insights for sales trends and custome
 Improved reporting by presenting clear, actionable insights on demographic based sales trends.
 
 
-# SQL and Power BI project: Personal Project
+# SQL and Power BI Project
 PROJECT:
+
+SQL and Power BI project: Personal Project
 
 Developed a comprehensive data analysis solution for a pizza sales project using SQL for data extraction and Power BI for visualization.
 Created SQL queries to analyze sales patterns, customer preferences, and top-selling pizza items.
