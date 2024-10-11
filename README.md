@@ -1,4 +1,4 @@
-# Power Bi Sales eport Project
+# Power Bi Sales Report Project
 PROJECT:
 
 Power BI Sales Analysis Project: Personal Project
